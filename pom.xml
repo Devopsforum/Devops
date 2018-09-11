@@ -63,10 +63,10 @@
     </pluginManagement>
   </build>
   <distributionManagement>
-    <snapshotrepository>
+    <repository>
       <id>deployment</id>
       <name>Snapshot</name>
       <url>http://localhost:8081/repository/SampleNexus/</url>
-    </snapshotrepository>
+    </repository>
   </distributionManagement>
 </project>
