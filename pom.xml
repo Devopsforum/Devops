@@ -66,7 +66,7 @@
     <repository>
       <id>deployment</id>
       <name>Snapshot</name>
-      <url>http://localhost:8081/repository/SampleNexus/</url>
+      <url>http://localhost:8081/repository/Nexus-Art/</url>
     </repository>
   </distributionManagement>
 </project>
